@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ErnesG/fundamentalNodeWebapp/issues"
   },
-  "homepage": "https://github.com/ErnesG/fundamentalNodeWebapp#readme"
+  "homepage": "https://github.com/ErnesG/fundamentalNodeWebapp#readme",
+  "dependencies": {
+    "http": "0.0.0"
+  }
 }
