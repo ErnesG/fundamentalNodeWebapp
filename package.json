@@ -1,0 +1,23 @@
+{
+  "name": "fundamentalwebserver",
+  "version": "1.0.0",
+  "description": "A node web app made from scratch, trust me really form scratch",
+  "main": "app.js",
+  "scripts": {
+    "test": "testThis"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErnesG/fundamentalNodeWebapp.git"
+  },
+  "keywords": [
+    "fundamental",
+    "node"
+  ],
+  "author": "Ernesto Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErnesG/fundamentalNodeWebapp/issues"
+  },
+  "homepage": "https://github.com/ErnesG/fundamentalNodeWebapp#readme"
+}
